@@ -1,0 +1,38 @@
+_repo: De-Koning-der-Zee_57593
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Vlaanderen, André
+    aliases:
+    - Vlaanderen, Cornelis Andre
+    - Vlaanderen, Cornelis André
+    birthdate: 1881
+    deathdate: 1955
+    gutenberg_agent_id: '33954'
+    url: http://www.gutenberg.org/2009/agents/33954
+  translator: &id001
+    agent_name: Pieck, A.F.
+    gutenberg_agent_id: '49492'
+    url: http://www.gutenberg.org/2009/agents/49492
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+  editor: *id001
+description: ''
+gutenberg_issued: '2018-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57593'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: De Koning der Zee
+url: http://www.gutenberg.org/ebooks/57593
